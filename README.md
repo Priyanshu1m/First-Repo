@@ -1,4 +1,4 @@
 # p
 My first git repository
 <br>
-Author - Priyanshu Kumar
+Author - Priyanshu Kumar(Coding) 
